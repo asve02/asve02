@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Ashish Verma and is currently working at Umea University as Research Engineer
-- 👀 I’m interested in the field of microbiology and marine microbial ecology
+- 👋 Hi, I’m Ashish Verma and is currently working at Umea University as Postdoc Reaseracher in the field of Microbiology and Marine Microbial Ecology
 - 🌱 I’m currently learning Linux and R programming
 - 💞️ I’m looking to collaborate on omics projects
 - 📫 Reach me at ashish.verma@umu.se
